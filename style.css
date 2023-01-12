@@ -276,7 +276,6 @@ a:hover {
     padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
-    
     line-height: 44px;
 }
 
@@ -456,7 +455,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
-    padding: 5px;
+    padding: 5px 10px 20px 5px;
 }
 
 .icon-lg {
